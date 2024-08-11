@@ -1,8 +1,6 @@
 package com.sentimentanalyzer.sentimentanalyzer.dto;
 
-import com.sentimentanalyzer.sentimentanalyzer.entity.User;
 
-import jakarta.annotation.Generated;
 import lombok.Getter;
 import lombok.Setter;
 
